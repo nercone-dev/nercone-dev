@@ -8,28 +8,29 @@ I programming everyday for my curiosity.
 **Languages:** ja-JP (Native), en-US (Little)
 
 ### Links
-[website](https://nercone.dev/) [email](mailto:nercone@diamondgotcat.net) [twitter](https://twitter.com/DiamondGotCat/)
+[website](https://nercone.dev/) [email](mailto:nercone@nercone.dev) [twitter](https://twitter.com/DiamondGotCat/)
 
 ## PGP Public Key
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
-mDMEaTwGrhYJKwYBBAHaRw8BAQdAbUWV+MmUqJl/1nRnYrBLkgj7kAIVSAB1VO2P
-KA3hyF60I05lcmNvbmUgPG5lcmNvbmVAZGlhbW9uZGdvdGNhdC5uZXQ+iJMEExYK
-ADsWIQR3AMyWjGdZL8n38lK49FVuUc7abwUCaTwGrgIbAwULCQgHAgIiAgYVCgkI
-CwIEFgIDAQIeBwIXgAAKCRC49FVuUc7abzKIAQCEw9UnQqVoDaAuOJM/CZiQBOcJ
-54Iooh4yF0IYZyht2wD/TpWF84XENFIsHDi1z/I7iZvGbljwphx1G9WT6+o8MwG4
-OARpPAauEgorBgEEAZdVAQUBAQdA/V7BYE1mDtaJSGJsU+yM5qTtmYYM+QCtCwXK
-f5OSGC8DAQgHiHgEGBYKACAWIQR3AMyWjGdZL8n38lK49FVuUc7abwUCaTwGrgIb
-DAAKCRC49FVuUc7ab2NtAP4ulwqdxzU/XyC4QlEr8c/48oSQr9GSbGNChpYO1Utz
-lwEA/icijJFORumXKLDPlBqUaFLlGhO5/orW8yJ/biygfQU=
-=TawG
+mDMEaZNZjBYJKwYBBAHaRw8BAQdAUSCDOhESmGQBqA9BXpmmB6tYAvzwPt+5pEjJ
+UDl9rEO0Nk5lcmNvbmUgKGZvcm1lcmx5IERpYW1vbmRHb3RDYXQpIDxuZXJjb25l
+QG5lcmNvbmUuZGV2PoiTBBMWCgA7FiEEc5Q3UzpWjrjbmTU3UFzPN/mj6OkFAmmT
+WYwCGwMFCwkIBwICIgIGFQoJCAsCBBYCAwECHgcCF4AACgkQUFzPN/mj6OkjVgD/
+ZSTmQCQ0R4JShXU74Onftlm0wYqj6+8E9C13OVC/Rx8A/iQIvmXZe9zfEslmFS7V
+oWFegRuDoqLACL7BZUx/2r0MuDgEaZNZjBIKKwYBBAGXVQEFAQEHQPAgLyhydOum
+8vtTBa/46VH5B29v0DnNEUCmHYnHn3EMAwEIB4h4BBgWCgAgFiEEc5Q3UzpWjrjb
+mTU3UFzPN/mj6OkFAmmTWYwCGwwACgkQUFzPN/mj6OmgXQD/Umyya1slJclVhI/+
+IHmvak+E6LMRcnr6r6ybY57iEK4BAOA/CMuOE718KYm0yqVSV8lK5ym1G/1BDwml
+ZjQEF4sK
+=qeqQ
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
 **Fingerprint**
 ```
-7700 CC96 8C67 592F C9F7 F252 B8F4 556E 51CE DA6F
+7394 3753 3A56 8EB8 DB99 3537 505C CF37 F9A3 E8E9
 ```
 
 ---
