@@ -1,8 +1,7 @@
 
-<img width="1920" src="https://github.com/user-attachments/assets/168e9319-526e-4102-92df-5886da54a3b9" />
+<img width="1280" height="640" alt="1280x640" src="https://github.com/user-attachments/assets/e792318b-f733-4dfb-9ee9-8618243b296d" />
 
 ## Informations
-I programming everyday for my curiosity.
 
 **Public Name:** Nercone (formerly DiamondGotCat)<br>
 **Languages:** ja-JP (Native), en-US (Little)
