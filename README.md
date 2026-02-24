@@ -8,7 +8,7 @@ I programming everyday for my curiosity.
 **Languages:** ja-JP (Native), en-US (Little)
 
 ### Links
-[website](https://nercone.dev/) [email](mailto:nercone@nercone.dev) [twitter](https://twitter.com/DiamondGotCat/)
+[website](https://nercone.dev/) [email](mailto:nercone@nercone.dev) [twitter](https://twitter.com/nercone_x/)
 
 ## PGP Public Key
 ```
