@@ -1,5 +1,5 @@
 
-<img width="1280" height="640" src="https://github.com/user-attachments/assets/fe6762b5-cd7a-45d0-8d27-27129c4382a7" />
+<img width="1280" height="640" src="https://assets.nercone.dev/images/header/normal.png" />
 
 ## Informations
 
