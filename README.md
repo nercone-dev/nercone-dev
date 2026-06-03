@@ -7,7 +7,7 @@
 **Languages:** ja-JP (Native), en-US (Little)
 
 ### Links
-[website](https://nercone.dev/) [email](mailto:nercone@nercone.dev) [twitter](https://twitter.com/nercone_x/)
+[website](https://nercone.dev/) [email](mailto:nercone@nercone.dev) [twitter](https://twitter.com/nercone_z/)
 
 ## PGP Public Key
 ```
