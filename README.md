@@ -1,15 +1,16 @@
 
-<img width="1280" height="640" src="https://assets.nercone.dev/images/header/normal.png" />
-
-## Informations
-
-**Public Name:** Nercone (formerly DiamondGotCat)<br>
-**Languages:** ja-JP (Native), en-US (Little)
-
-### Links
-[website](https://nercone.dev/) [email](mailto:nercone@nercone.dev) [twitter](https://twitter.com/nercone_z/)
+<img width="1280" height="640" src="https://raw.githubusercontent.com/nercone-dev/assets/refs/heads/main/images/header/nercone/normal.png" />
 
 ## PGP Public Key
+
+```
+E121 8962 DC87 F1B1 7DCB  ED02 7BC0 86D9 1FD4 7610
+```
+
+<details>
+
+<summary>ASCII Armor</summary>
+
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
@@ -30,9 +31,26 @@ FXSpRGLhei27TPsL
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
-**Fingerprint**
+</details>
+
+## Donation
+
+If you would like to support Nercone's activities in any way, I would appreciate it if you could donate funds (or rather, cocoa money) for the activities.
+
+- Currently, I only accept cryptocurrency donations via Monero and Litecoin.
+- I don't drink coffee, so it's cocoa.
+- The idea of raising funds through cryptocurrency, as well as the choice of Monero and Litecoin, was inspired by [@soichi11208](https://github.com/soichi11208/).
+
+**Monero (XMR)**
+
 ```
-E121 8962 DC87 F1B1 7DCB  ED02 7BC0 86D9 1FD4 7610
+8BQCKtXehfcWfR52yb53zaBBEYajQqMXgD7Rj8D7JBL7CQWokZKb7NzVDtPNQVFvHk1aWJKLQGSHYRfq8hV7yRQ7K9HBKqi
+```
+
+**Litecoin (LTC)**
+
+```
+ltcmweb1qqwxmc4u9fzyfhwa2dst9vfy8fn9kv5jd4hzy9wkqk3z4k5hz2zxxqqmqy0v8r4whv4477ue2f5kf6tzjslfwh8egn29c2hf8kmm25da2wgj584gz
 ```
 
 ---
