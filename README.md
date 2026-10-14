@@ -37,14 +37,20 @@ FXSpRGLhei27TPsL
 
 If you would like to support Nercone's activities in any way, I would appreciate it if you could donate funds (or rather, cocoa money) for the activities.
 
-- Currently, I only accept cryptocurrency donations via Bitcoin, Ethereum, Monero and Litecoin.
+- Currently, I only accept cryptocurrency donations via Bitcoin, Litecoin, Ethereum, and Monero.
 - I don't drink coffee, so it's cocoa.
-- The idea of raising funds through cryptocurrency, as well as the choice of Monero and Litecoin, was inspired by [@soichi11208](https://github.com/soichi11208/).
+- The idea of raising funds through cryptocurrency, as well as the choice of Litecoin and Monero, was inspired by [@soichi11208](https://github.com/soichi11208/).
 
 **Bitcoin (BTC)**
 
 ```
 sp1qqwtp5dxkskvxpnxlvg4p9877zzxm93yfm0eaqmmnh48l5gr6fadsuqey3rve2zw68cnzzptxlzqhppgsacsfhqwj52lzapn8qkxl4wx6wqxvc5vt
+```
+
+**Litecoin (LTC)**
+
+```
+ltcmweb1qqwxmc4u9fzyfhwa2dst9vfy8fn9kv5jd4hzy9wkqk3z4k5hz2zxxqqmqy0v8r4whv4477ue2f5kf6tzjslfwh8egn29c2hf8kmm25da2wgj584gz
 ```
 
 **Ethereum (ETH)**
@@ -57,12 +63,6 @@ sp1qqwtp5dxkskvxpnxlvg4p9877zzxm93yfm0eaqmmnh48l5gr6fadsuqey3rve2zw68cnzzptxlzqh
 
 ```
 8BQCKtXehfcWfR52yb53zaBBEYajQqMXgD7Rj8D7JBL7CQWokZKb7NzVDtPNQVFvHk1aWJKLQGSHYRfq8hV7yRQ7K9HBKqi
-```
-
-**Litecoin (LTC)**
-
-```
-ltcmweb1qqwxmc4u9fzyfhwa2dst9vfy8fn9kv5jd4hzy9wkqk3z4k5hz2zxxqqmqy0v8r4whv4477ue2f5kf6tzjslfwh8egn29c2hf8kmm25da2wgj584gz
 ```
 
 ---
