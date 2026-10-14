@@ -37,9 +37,21 @@ FXSpRGLhei27TPsL
 
 If you would like to support Nercone's activities in any way, I would appreciate it if you could donate funds (or rather, cocoa money) for the activities.
 
-- Currently, I only accept cryptocurrency donations via Monero and Litecoin.
+- Currently, I only accept cryptocurrency donations via Bitcoin, Ethereum, Monero and Litecoin.
 - I don't drink coffee, so it's cocoa.
 - The idea of raising funds through cryptocurrency, as well as the choice of Monero and Litecoin, was inspired by [@soichi11208](https://github.com/soichi11208/).
+
+**Bitcoin (BTC)**
+
+```
+sp1qqwtp5dxkskvxpnxlvg4p9877zzxm93yfm0eaqmmnh48l5gr6fadsuqey3rve2zw68cnzzptxlzqhppgsacsfhqwj52lzapn8qkxl4wx6wqxvc5vt
+```
+
+**Ethereum (ETH)**
+
+```
+0x8A843e7F363bF67E26e63b285B857E7b8e1853Dc
+```
 
 **Monero (XMR)**
 
