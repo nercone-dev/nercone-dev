@@ -1,5 +1,5 @@
 
-<img width="1280" height="640" src="https://raw.githubusercontent.com/nercone-dev/assets/refs/heads/main/images/header/nercone/normal.png" />
+<img width="1280" height="640" src="https://raw.githubusercontent.com/nercone-dev/assets/refs/heads/main/images/header/normal.png" />
 
 ## PGP Public Key
 
